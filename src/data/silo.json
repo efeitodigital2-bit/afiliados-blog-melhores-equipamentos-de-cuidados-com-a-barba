@@ -1,0 +1,102 @@
+{
+  "categories": [
+    {
+      "name": "Aparadores e Máquinas de Barba",
+      "slug": "aparadores-maquinas-barba",
+      "description": "Descubra os melhores aparadores de barba e máquinas de corte para manter seu estilo impecável. Encontre análises detalhadas, comparativos e guias de compra para escolher o equipamento elétrico ideal para sua barba, desde modelos profissionais até opções para uso diário, garantindo precisão e praticidade.",
+      "subcategories": [
+        {
+          "name": "Aparadores de Barba Profissionais",
+          "slug": "aparadores-barba-profissionais",
+          "description": "Encontre os aparadores de barba de nível profissional que oferecem precisão, potência e durabilidade. Ideal para quem busca resultados de barbearia em casa, com as melhores marcas e tecnologias avançadas para um corte perfeito.",
+          "articles": []
+        },
+        {
+          "name": "Máquinas de Acabamento para Barba",
+          "slug": "maquinas-acabamento-barba",
+          "description": "Explore as melhores máquinas de acabamento para barba, perfeitas para contornos definidos, detalhes precisos e um visual impecável. Descubra modelos que garantem um acabamento perfeito para sua barba, realçando seu estilo.",
+          "articles": []
+        },
+        {
+          "name": "Aparadores de Barba Sem Fio",
+          "slug": "aparadores-barba-sem-fio",
+          "description": "Conheça a liberdade e praticidade dos aparadores de barba sem fio. Analisamos os modelos com melhor autonomia de bateria, desempenho e ergonomia para um cuidado com a barba sem interrupções, ideal para viagens e uso diário.",
+          "articles": []
+        },
+        {
+          "name": "Comparativos de Aparadores de Barba",
+          "slug": "comparativos-aparadores-barba",
+          "description": "Decida com confiança! Veja comparativos detalhados dos melhores aparadores de barba do mercado, avaliando custo-benefício, recursos e desempenho para ajudar você a fazer a escolha certa e investir no equipamento ideal.",
+          "articles": []
+        }
+      ]
+    },
+    {
+      "name": "Kits Completos de Equipamentos para Barba",
+      "slug": "kits-equipamentos-barba",
+      "description": "Explore os kits de equipamentos para barba mais completos e eficientes do mercado. Seja para iniciantes ou barbudos experientes, encontre conjuntos que reúnem as melhores ferramentas e acessórios para um cuidado abrangente e resultados profissionais, tudo em um só lugar.",
+      "subcategories": [
+        {
+          "name": "Guia Essencial de Equipamentos para Barba",
+          "slug": "guia-essencial-equipamentos-barba",
+          "description": "Seu ponto de partida para uma barba impecável! Este guia definitivo apresenta os equipamentos essenciais e as melhores escolhas para montar seu arsenal de cuidados, garantindo que você tenha tudo o que precisa para uma barba saudável e estilosa, desde o básico ao avançado.",
+          "articles": [
+            {
+              "title": "Guia Definitivo: Os Melhores Equipamentos para uma Barba Impecável em 2026",
+              "slug": "primeiro-post"
+            }
+          ]
+        },
+        {
+          "name": "Kits Premium de Cuidados com a Barba",
+          "slug": "kits-premium-cuidados-barba",
+          "description": "Eleve sua rotina com os kits premium de cuidados com a barba. Descubra conjuntos luxuosos com equipamentos de alta qualidade, design sofisticado e performance superior para os barbudos mais exigentes que buscam excelência.",
+          "articles": []
+        },
+        {
+          "name": "Kits de Viagem para Barba",
+          "slug": "kits-viagem-barba",
+          "description": "Mantenha sua barba impecável em qualquer lugar com os melhores kits de viagem. Compactos e completos, esses conjuntos garantem que você tenha seus equipamentos essenciais sempre à mão, sem abrir mão do estilo e da rotina de cuidados.",
+          "articles": []
+        },
+        {
+          "name": "Kits de Presente para Barba",
+          "slug": "kits-presente-barba",
+          "description": "Surpreenda com os melhores kits de presente para barbudos. Encontre opções elegantes e funcionais que combinam equipamentos de qualidade com produtos de cuidado, perfeitos para qualquer ocasião e para quem valoriza uma barba bem cuidada.",
+          "articles": []
+        }
+      ]
+    },
+    {
+      "name": "Ferramentas Manuais e Acessórios para Barba",
+      "slug": "ferramentas-manuais-acessorios-barba",
+      "description": "Aprimore sua rotina de cuidados com a barba com as melhores ferramentas manuais e acessórios. De escovas e pentes a tesouras e navalhas, descubra os itens essenciais para modelar, aparar e manter sua barba com precisão e estilo, garantindo um visual impecável.",
+      "subcategories": [
+        {
+          "name": "Escovas e Pentes para Barba",
+          "slug": "escovas-pentes-barba",
+          "description": "Descubra a importância e a variedade das melhores escovas e pentes para barba. Escolha o material e o design ideais para desembaraçar, alinhar e distribuir produtos, mantendo sua barba sempre arrumada e saudável.",
+          "articles": []
+        },
+        {
+          "name": "Tesouras e Navalhas para Barba",
+          "slug": "tesouras-navalhas-barba",
+          "description": "Domine a arte do aparo manual com as melhores tesouras e navalhas para barba. Ferramentas de precisão para modelar, aparar pontas e manter o contorno da sua barba com perfeição, alcançando um acabamento profissional em casa.",
+          "articles": []
+        },
+        {
+          "name": "Modeladores e Moldes para Barba",
+          "slug": "modeladores-moldes-barba",
+          "description": "Alcance o formato perfeito para sua barba com os melhores modeladores e moldes. Ferramentas inovadoras que auxiliam na simetria e no design, garantindo um estilo impecável e profissional, sem sair de casa.",
+          "articles": []
+        },
+        {
+          "name": "Acessórios de Limpeza e Secagem para Barba",
+          "slug": "acessorios-limpeza-secagem-barba",
+          "description": "Mantenha sua barba limpa e seca com os acessórios ideais. Explore escovas de limpeza, toalhas específicas e outros itens que complementam sua rotina de higiene, promovendo uma barba saudável, bem cuidada e livre de resíduos.",
+          "articles": []
+        }
+      ]
+    }
+  ]
+}
