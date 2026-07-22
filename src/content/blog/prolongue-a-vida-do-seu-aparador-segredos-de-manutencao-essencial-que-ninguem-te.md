@@ -2,7 +2,7 @@
 title: "Prolongue a Vida do Seu Aparador: Segredos de Manutenção Essencial que Ninguém Te Conta (Quero Fazer/Saber)"
 description: "Prolongue a Vida do Seu Aparador: Segredos de Manutenção Essencial que Ninguém Te Conta (Quero Fazer/Saber)"
 pubDate: "2026-07-22"
-heroImage: "/images/prolongue-a-vida-do-seu-aparador-segredos-de-manutencao-essencial-que-ninguem-te.jpg"
+heroImage: "https://images.pexels.com/photos/30432077/pexels-photo-30432077.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 tags:
   - "manutenção de aparador"
   - "aparadores"

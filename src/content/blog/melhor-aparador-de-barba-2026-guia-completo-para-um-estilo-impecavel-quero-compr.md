@@ -2,7 +2,7 @@
 title: "Melhor Aparador de Barba 2026: Guia Completo para um Estilo Impecável [Quero Comprar]"
 description: "Melhor Aparador de Barba 2026: Guia Completo para um Estilo Impecável [Quero Comprar]"
 pubDate: "2026-07-22"
-heroImage: "/images/melhor-aparador-de-barba-2026-guia-completo-para-um-estilo-impecavel-quero-compr.jpg"
+heroImage: "https://images.pexels.com/photos/19287847/pexels-photo-19287847.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 tags:
   - "melhor aparador de barba"
   - "guia de compra"

@@ -2,7 +2,7 @@
 title: "Montando Seu Kit de Barba: Quais Aparelhos São Indispensáveis? [Guia Atualizado 2026]"
 description: "Montando Seu Kit de Barba: Quais Aparelhos São Indispensáveis? [Guia Atualizado 2026]"
 pubDate: "2026-07-22"
-heroImage: "/images/montando-seu-kit-de-barba-quais-aparelhos-sao-indispensaveis-guia-atualizado-202.jpg"
+heroImage: "https://images.pexels.com/photos/995300/pexels-photo-995300.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 tags:
   - "barba"
   - "barbeiro"

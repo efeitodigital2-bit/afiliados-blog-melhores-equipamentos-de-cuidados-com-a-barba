@@ -2,7 +2,7 @@
 title: "Aprenda a Usar o Aparador de Barba: Dicas de Barbeiro para um Corte Perfeito em Casa (Quero Fazer)"
 description: "Aprenda a Usar o Aparador de Barba: Dicas de Barbeiro para um Corte Perfeito em Casa (Quero Fazer)"
 pubDate: "2026-07-22"
-heroImage: "/images/aprenda-a-usar-o-aparador-de-barba-dicas-de-barbeiro-para-um-corte-perfeito-em-c.jpg"
+heroImage: "https://images.pexels.com/photos/10024230/pexels-photo-10024230.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 tags:
   - "barbear"
   - "barba"

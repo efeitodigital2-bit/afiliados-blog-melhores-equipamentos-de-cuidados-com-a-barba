@@ -2,7 +2,7 @@
 title: "Evite Erros Fatais ao Aparar: Truques Que Transformam Sua Barba [Dicas de Especialista]"
 description: "Evite Erros Fatais ao Aparar: Truques Que Transformam Sua Barba [Dicas de Especialista]"
 pubDate: "2026-07-22"
-heroImage: "/images/evite-erros-fatais-ao-aparar-truques-que-transformam-sua-barba-dicas-de-especial.jpg"
+heroImage: "https://images.pexels.com/photos/19287848/pexels-photo-19287848.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 tags:
   - "barbear"
   - "barba"

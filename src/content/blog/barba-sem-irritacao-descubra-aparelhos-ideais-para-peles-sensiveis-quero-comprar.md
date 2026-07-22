@@ -2,7 +2,7 @@
 title: "Barba Sem Irritação: Descubra Aparelhos Ideais para Peles Sensíveis (Quero Comprar/Saber)"
 description: "Barba Sem Irritação: Descubra Aparelhos Ideais para Peles Sensíveis (Quero Comprar/Saber)"
 pubDate: "2026-07-22"
-heroImage: "/images/barba-sem-irritacao-descubra-aparelhos-ideais-para-peles-sensiveis-quero-comprar.jpg"
+heroImage: "https://images.pexels.com/photos/8727486/pexels-photo-8727486.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 tags:
   - "colchão"
 ---

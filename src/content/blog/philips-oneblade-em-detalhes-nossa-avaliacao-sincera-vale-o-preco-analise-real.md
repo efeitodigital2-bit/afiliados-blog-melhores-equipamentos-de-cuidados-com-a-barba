@@ -2,7 +2,7 @@
 title: "Philips OneBlade em Detalhes: Nossa Avaliação Sincera Vale o Preço? [Análise Real]"
 description: "Philips OneBlade em Detalhes: Nossa Avaliação Sincera Vale o Preço? [Análise Real]"
 pubDate: "2026-07-22"
-heroImage: "/images/philips-oneblade-em-detalhes-nossa-avaliacao-sincera-vale-o-preco-analise-real.jpg"
+heroImage: "https://images.pexels.com/photos/19225258/pexels-photo-19225258.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 tags:
   - "PhilipsOneBlade"
   - "barbear"

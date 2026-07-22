@@ -2,7 +2,7 @@
 title: "Desvende a Barba Perfeita: Ferramentas Essenciais para Cada Comprimento e Estilo (Quero Saber/Comprar)"
 description: "Desvende a Barba Perfeita: Ferramentas Essenciais para Cada Comprimento e Estilo (Quero Saber/Comprar)"
 pubDate: "2026-07-22"
-heroImage: "/images/desvende-a-barba-perfeita-ferramentas-essenciais-para-cada-comprimento-e-estilo-.jpg"
+heroImage: "https://images.pexels.com/photos/16407082/pexels-photo-16407082.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 tags:
   - "colchão"
 ---

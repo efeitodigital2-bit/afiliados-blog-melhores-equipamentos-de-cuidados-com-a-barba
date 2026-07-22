@@ -2,7 +2,7 @@
 title: "Comparativo de Aparadores 2026: Os Modelos Mais Populares Dissecados (Quero Comprar)"
 description: "Comparativo de Aparadores 2026: Os Modelos Mais Populares Dissecados (Quero Comprar)"
 pubDate: "2026-07-22"
-heroImage: "/images/comparativo-de-aparadores-2026-os-modelos-mais-populares-dissecados-quero-compra.jpg"
+heroImage: "https://images.pexels.com/photos/29404594/pexels-photo-29404594.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 tags:
   - "Aparadores"
   - "Sono"
