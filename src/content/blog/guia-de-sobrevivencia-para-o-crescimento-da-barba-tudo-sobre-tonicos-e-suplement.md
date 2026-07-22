@@ -2,7 +2,7 @@
 title: "Guia de Sobrevivência para o Crescimento da Barba: Tudo Sobre Tônicos e Suplementos que Funcionam"
 description: "Guia de Sobrevivência para o Crescimento da Barba: Tudo Sobre Tônicos e Suplementos que Funcionam"
 pubDate: "2026-07-22"
-heroImage: "https://images.pexels.com/photos/13013753/pexels-photo-13013753.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+heroImage: "/images/guia-de-sobrevivencia-para-o-crescimento-da-barba-tudo-sobre-tonicos-e-suplement.jpg"
 tags:
   - "barba"
   - "crescimento da barba"

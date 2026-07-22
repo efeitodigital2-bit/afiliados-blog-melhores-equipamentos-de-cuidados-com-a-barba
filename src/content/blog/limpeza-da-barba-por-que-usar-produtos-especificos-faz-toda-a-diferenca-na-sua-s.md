@@ -2,7 +2,7 @@
 title: "Limpeza da Barba: Por Que Usar Produtos Específicos Faz Toda a Diferença na Sua Saúde Dérmica?"
 description: "Limpeza da Barba: Por Que Usar Produtos Específicos Faz Toda a Diferença na Sua Saúde Dérmica?"
 pubDate: "2026-07-22"
-heroImage: "https://images.pexels.com/photos/7320128/pexels-photo-7320128.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+heroImage: "/images/limpeza-da-barba-por-que-usar-produtos-especificos-faz-toda-a-diferenca-na-sua-s.jpg"
 tags:
   - "colchão"
 ---

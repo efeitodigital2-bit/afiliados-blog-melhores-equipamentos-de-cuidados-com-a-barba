@@ -2,7 +2,7 @@
 title: "Barba Grisalha Impecável: Segredos para Eliminar o Amarelado e Manter a Elegância"
 description: "Barba Grisalha Impecável: Segredos para Eliminar o Amarelado e Manter a Elegância"
 pubDate: "2026-07-22"
-heroImage: "https://images.pexels.com/photos/6050399/pexels-photo-6050399.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+heroImage: "/images/barba-grisalha-impecavel-segredos-para-eliminar-o-amarelado-e-manter-a-elegancia.jpg"
 tags:
   - "barba"
   - "estilo"

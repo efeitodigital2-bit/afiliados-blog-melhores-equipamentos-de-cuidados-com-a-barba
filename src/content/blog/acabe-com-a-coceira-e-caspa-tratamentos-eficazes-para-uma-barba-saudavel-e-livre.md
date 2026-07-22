@@ -2,7 +2,7 @@
 title: "Acabe com a Coceira e Caspa: Tratamentos Eficazes para uma Barba Saudável e Livre de Irritações"
 description: "Acabe com a Coceira e Caspa: Tratamentos Eficazes para uma Barba Saudável e Livre de Irritações"
 pubDate: "2026-07-22"
-heroImage: "https://images.pexels.com/photos/14387797/pexels-photo-14387797.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+heroImage: "/images/acabe-com-a-coceira-e-caspa-tratamentos-eficazes-para-uma-barba-saudavel-e-livre.jpg"
 tags:
   - "barba"
   - "saúde"

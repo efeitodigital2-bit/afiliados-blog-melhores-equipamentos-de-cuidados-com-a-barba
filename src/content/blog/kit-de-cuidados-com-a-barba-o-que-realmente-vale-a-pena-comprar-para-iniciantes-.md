@@ -2,7 +2,7 @@
 title: "Kit de Cuidados com a Barba: O Que Realmente Vale a Pena Comprar para Iniciantes e Experientes?"
 description: "Kit de Cuidados com a Barba: O Que Realmente Vale a Pena Comprar para Iniciantes e Experientes?"
 pubDate: "2026-07-22"
-heroImage: "https://images.pexels.com/photos/8789597/pexels-photo-8789597.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+heroImage: "/images/kit-de-cuidados-com-a-barba-o-que-realmente-vale-a-pena-comprar-para-iniciantes-.jpg"
 tags:
   - "colchão"
 ---

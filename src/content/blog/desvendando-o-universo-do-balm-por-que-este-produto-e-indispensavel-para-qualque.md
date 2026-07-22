@@ -2,7 +2,7 @@
 title: "Desvendando o Universo do Balm: Por Que Este Produto é Indispensável para Qualquer Barba?"
 description: "Desvendando o Universo do Balm: Por Que Este Produto é Indispensável para Qualquer Barba?"
 pubDate: "2026-07-22"
-heroImage: "https://images.pexels.com/photos/8789590/pexels-photo-8789590.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+heroImage: "/images/desvendando-o-universo-do-balm-por-que-este-produto-e-indispensavel-para-qualque.jpg"
 tags:
   - "colchão"
 ---

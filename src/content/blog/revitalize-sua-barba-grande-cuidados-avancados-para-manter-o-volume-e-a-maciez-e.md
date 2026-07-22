@@ -2,7 +2,7 @@
 title: "Revitalize Sua Barba Grande: Cuidados Avançados para Manter o Volume e a Maciez Extrema"
 description: "Revitalize Sua Barba Grande: Cuidados Avançados para Manter o Volume e a Maciez Extrema"
 pubDate: "2026-07-22"
-heroImage: "https://images.pexels.com/photos/10024234/pexels-photo-10024234.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+heroImage: "/images/revitalize-sua-barba-grande-cuidados-avancados-para-manter-o-volume-e-a-maciez-e.jpg"
 tags:
   - "barba"
   - "volume"

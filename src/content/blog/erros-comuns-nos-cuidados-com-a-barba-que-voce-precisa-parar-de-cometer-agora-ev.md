@@ -2,7 +2,7 @@
 title: "Erros Comuns nos Cuidados com a Barba que Você Precisa Parar de Cometer Agora [Evite Danos]"
 description: "Erros Comuns nos Cuidados com a Barba que Você Precisa Parar de Cometer Agora [Evite Danos]"
 pubDate: "2026-07-22"
-heroImage: "https://images.pexels.com/photos/19664863/pexels-photo-19664863.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+heroImage: "/images/erros-comuns-nos-cuidados-com-a-barba-que-voce-precisa-parar-de-cometer-agora-ev.jpg"
 tags:
   - "barba"
   - "cuidados com barba"
